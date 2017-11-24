@@ -1,4 +1,4 @@
-# KB follow these simple steps and your computer will be squeaaaaaaky clean in no time my dude
+# KB follow these simple steps and your computer will be squeaaaaaaky clean in no time my dude 👉
 
 ##### Disclaimer - I (andy) do not take any responsibility for loss of files, damage to computers etc etc etc...
 
@@ -22,10 +22,10 @@
 
 
 ## Deauthorize iTunes
-2. iTunes only allows you to use up to five computers to use stuff from your Apple ID and if you don't deauthorize it before you wipe the ting it will think its another computer
-  1. Click iTunes Store button (middle top)
-  2. Scroll to the bottom of the page and there is the tiniest Account button 🔎🔎🔎
-  3. In the Account Information window, click Deauthorize All
+1. iTunes only allows you to use up to five computers to use stuff from your Apple ID and if you don't deauthorize it before you wipe the ting it will think its another computer
+2. Click iTunes Store button (middle top)
+3. Scroll to the bottom of the page and there is the tiniest Account button 🔎🔎🔎
+4. In the Account Information window, click Deauthorize All
 
 ![itunes deauthorize](images/iTunesDeauth.png)
 
