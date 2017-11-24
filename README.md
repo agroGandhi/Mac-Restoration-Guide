@@ -1,6 +1,6 @@
-# Follow these simple steps and your computer will be squeaky clean in no time my
+# KB follow these simple steps and your computer will be squeaaaaaaky clean in no time my dude
 
-##### Disclaimer - I (andy) do not take any responsibility for loss of files, damage to computers etc etc etc... 2017 Friday etc
+##### Disclaimer - I (andy) do not take any responsibility for loss of files, damage to computers etc etc etc...
 
 
 ## Backup important files
