@@ -1,5 +1,6 @@
-# Follow these simple steps and your computer will be squeaky clean in no time my dude 🤙
+# Follow these simple steps and your computer will be squeaky clean in no time my
 
+##### Disclaimer - I (andy) do not take any responsibility for loss of files, damage to computers etc etc etc... 2017 Friday etc
 
 
 ## Backup important files
@@ -30,14 +31,14 @@
 
 
 
-### Here's some related links you might want to read before the erasing hard drive and reinstalling the OS
-http://www.gizmodo.co.uk/2015/04/make-your-mac-feel-like-new-again-with-a-fresh-install-of-os-x/
-http://www.asianefficiency.com/technology/format-mac-checklist/
-https://gigaom.com/2011/01/21/mac-maintenance-an-os-x-reinstall-checklist/
+### Here's some related links you might find useful before the erasing hard drive and reinstalling the OS
+  * http://www.gizmodo.co.uk/2015/04/make-your-mac-feel-like-new-again-with-a-fresh-install-of-os-x/
+  * http://www.asianefficiency.com/technology/format-mac-checklist/
+  * https://gigaom.com/2011/01/21/mac-maintenance-an-os-x-reinstall-checklist/
 
 
 
-## Reinstall macOS
+## Reinstall macOS 💀
 Make sure you know your AppleID/Wifi credentials because you will need them when you install the new operating system. The current one now in macOS High Sierra btwwwww. There is a guide on Apple's own website that has the steps so I will just link that rather than copying. I would erase the startup disk and then install the new OS so it is completely wiped.
 
 https://support.apple.com/en-gb/HT204904
@@ -46,10 +47,12 @@ https://support.apple.com/en-gb/HT204904
 
 
 # Badman
-Take some time to reflect on how much of a badman you are, no motherfucking virus is guna stop this honey.
-Hold tight for silky smooth
+Take some time to reflect on how much of a badman you are 🦑, no motherfucking virus is guna stop this honey.
+Hold tight for silky smooth 🤞
+
 
 ![badman](images/badman.png)
 
 
 Hope this helps!
+Andy
