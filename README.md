@@ -44,10 +44,12 @@ https://support.apple.com/en-gb/HT204904
 
 
 
+
 # Badman
-Take some time to reflect on how much of a badman you are, no motherfucking virus is guna stop this honey. Hold tight for the silky smooth
+Take some time to reflect on how much of a badman you are, no motherfucking virus is guna stop this honey.
+Hold tight for silky smooth
 
-![badman](badman.png)
+![badman](images/badman.png)
 
 
-
+Hope this helps!
