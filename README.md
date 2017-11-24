@@ -1,2 +1,4 @@
-# Mac-Restoration-Guide
-## A short guide to help restore your MacBook
+# Mac Restoration Guide
+## Oi Kath follow these simple steps and your computer will be squaeky clean in no time my dude
+
+![backup][backup.png]
