@@ -24,12 +24,12 @@
   2. Scroll to the bottom of the page and there is the tiniest Account button 🔎🔎🔎
   3. In the Account Information window, click Deauthorize All
 
-![itunes deauthorize](images/itunesDeauth.png)
+![itunes deauthorize](images/iTunesDeauth.png)
 
 
 
 ### Reinstall macOS
 Make sure you know your AppleID/Wifi credentials because you will need them when you install the new operating system. The current one now in macOS High Sierra btwwwww. There is a guide on Apple's own website that has the steps so I will just link that rather than copying. I would erase the startup disk and then install the new OS so it is completely wiped.
 
-[https://support.apple.com/en-gb/HT204904]
+https://support.apple.com/en-gb/HT204904
 
